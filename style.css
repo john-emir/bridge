@@ -1,0 +1,16 @@
+.point-a {
+    width: 50%;
+    height: 100vh;
+    position: absolute;
+    left: 0;
+
+}
+
+.point-b {
+    width: 50%;
+    height: 100vh;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+
+}
